@@ -8,6 +8,8 @@ namespace redes
         static void Main(string[] args)
         {
             int posiChave = 0, posVetorByte = 0, tamanhoChave = 0;
+            Console.WriteLine("Qual é o grau da chave");
+            int grau = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite a chave");
             Int64 numchave = Int64.Parse(Console.ReadLine());
             char[] ats;
@@ -86,12 +88,15 @@ namespace redes
             }
 
             Console.WriteLine("\n valor gerador é");
+            int cont = 0;
             foreach (var item in listaAuxiliar)
             {
+                if(cont != grau)
                 Console.Write(item.ToString());
+                cont++;
             }
 
-            Console.WriteLine("\n\n\n\nCriador NABAIA ");
+            Console.WriteLine("\n\n\nCriador NABAIA ");
             Console.WriteLine("https://github.com/Yurinabaia");
 
         }
@@ -151,6 +156,6 @@ namespace redes
             }
             Console.WriteLine("\n");
         }
-       
+
     }
 }
