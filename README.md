@@ -1,4 +1,5 @@
-<H1>1º Digite a chave, que seria o polinomio gerador G(X)  </h1>
+
+<H1>1º Digite a chave, que seria o polinomio gerador G(X) || </h1>
 
 ![javascript dark](https://github.com/Yurinabaia/CodigoPolinomial/blob/master/image.png?raw=true)])
 
@@ -6,7 +7,7 @@
 
 ![javascript dark](https://github.com/Yurinabaia/CodigoPolinomial/blob/master/sd.png?raw=true)])
 
-<H1>RESULTADO FINAL</h1>
+<H1>RESULTADO FINA L</h1>
 
 ![javascript dark](https://github.com/Yurinabaia/CodigoPolinomial/blob/master/DDD.png?raw=true)])
 
