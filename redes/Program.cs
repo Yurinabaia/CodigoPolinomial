@@ -9,6 +9,8 @@ namespace redes
         {
             int posiChave = 0, posVetorByte = 0, tamanhoChave = 0;
             Console.WriteLine("Qual é o grau da chave");
+            Console.WriteLine("Qual é o grau da chave");
+
             int grau = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite a chave");
             Int64 numchave = Int64.Parse(Console.ReadLine());
