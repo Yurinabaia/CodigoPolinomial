@@ -6,7 +6,7 @@
 
 ![javascript dark](https://github.com/Yurinabaia/CodigoPolinomial/blob/master/sd.png?raw=true)])
 
-<H1>RESULTADO FINAL</h1>
+<H1>RESULTADO FINA L</h1>
 
 ![javascript dark](https://github.com/Yurinabaia/CodigoPolinomial/blob/master/DDD.png?raw=true)])
 
