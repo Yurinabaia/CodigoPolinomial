@@ -12,6 +12,8 @@ namespace redes
             Console.WriteLine("Qual é o grau da chave");
 
             int grau = int.Parse(Console.ReadLine());
+                        int grau = int.Parse(Console.ReadLine());
+
             Console.WriteLine("Digite a chave");
             Int64 numchave = Int64.Parse(Console.ReadLine());
             char[] ats;
