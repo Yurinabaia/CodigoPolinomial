@@ -12,7 +12,7 @@ namespace redes
             Console.WriteLine("Qual é o grau da chave");
 
             int grau = int.Parse(Console.ReadLine());
-                        int grau = int.Parse(Console.ReadLine());
+            int grau = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite a chave");
             Int64 numchave = Int64.Parse(Console.ReadLine());
@@ -20,6 +20,8 @@ namespace redes
             ats = numchave.ToString().ToCharArray();
 
             Console.WriteLine("Digite os bytes de dados");
+                        Console.WriteLine("Digite os bytes de dados");
+
             Int64 valor = Int64.Parse(Console.ReadLine());
             char[] arr;
             arr = valor.ToString().ToCharArray();
